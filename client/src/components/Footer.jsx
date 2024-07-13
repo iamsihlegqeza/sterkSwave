@@ -5,7 +5,7 @@ import { BsFacebook, BsWhatsapp, BsTwitterX, BsInstagram} from 'react-icons/bs'
  
 export default function FooterCom() {
   return (
-    <Footer container classname='border border-t-8 border-black'>
+    <Footer container className='border'>
         <div className='w-full max-w-7xl mx-auto'>
             <div className='grid w-full justifty-between sm:flex md:grid-cols-1 mx-auto p-4'>
                 <div className='mt-5'>
